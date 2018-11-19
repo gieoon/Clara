@@ -1,3 +1,8 @@
 INSTALLATION
 https://www.pyimagesearch.com/2018/09/19/pip-install-opencv/
 
+tesnorflow object recognition custom training
+https://medium.com/@oonyalo/real-time-custom-trained-object-detection-app-with-opencv-and-tensorflow-a9c3af36719e
+
+
+https://medium.com/nybles/create-your-first-image-recognition-classifier-using-cnn-keras-and-tensorflow-backend-6eaab98d14dd
