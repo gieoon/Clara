@@ -20,5 +20,6 @@ And to exit virtualenv later:
 
 deactivate  # don't exit until you're done using TensorFlow
 
-
 can run tensorflow without installing it, straight through a docker container, or through CoLab to also use their GPU.
+Tensorflow Lite for Mobile, and Tensorflow.JS for WebGL Aceclerated javascript on browsers.
+

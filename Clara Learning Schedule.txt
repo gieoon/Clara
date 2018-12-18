@@ -3,8 +3,19 @@ Clara's curriculum for studies are as follows
 Sit on a clean uncluttered desktop with one icon.
 Correctly identify buttons on desktop.
 
+Correctly identify Chrome.
 
-Navigate to browser.
+Navigate to Chrome.
+
+
+Clara can remember each image separately. So, classes are created to learn each image individually by itself. 
+In terms of sequential images, Clara doesn't need to remember a sequence of images, just like Chess, she remembers one image at a time based on her current position.
+So there's an arrya of sequences, and current position defines the future array. 
+If she is currently trying to press Chrome, but can't see it, then she will press around to try and open a window that will let her open the windows screen, etc. After she presses this, she will then reassess and recreate a new array of positions to click.
+
+In terms of training, train Clara to go to Chrome, and send an email to myself, every single time. SO wherever she starts from, she can identify, so go out of directories, to desktop, or find chrome in other places, etc.
+
+Maybe I will talk to Samuel about an automated browser, and see if he gets excited and interested in it.
 
 
 

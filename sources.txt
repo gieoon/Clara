@@ -6,3 +6,10 @@ https://medium.com/@oonyalo/real-time-custom-trained-object-detection-app-with-o
 
 
 https://medium.com/nybles/create-your-first-image-recognition-classifier-using-cnn-keras-and-tensorflow-backend-6eaab98d14dd
+
+https://towardsdatascience.com/is-google-tensorflow-object-detection-api-the-easiest-way-to-implement-image-recognition-a8bd1f500ea0
+
+https://www.datacamp.com/community/tutorials/object-detection-guide
+
+https://www.learnopencv.com/image-recognition-and-object-detection-part1/
+
