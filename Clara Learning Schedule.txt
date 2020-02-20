@@ -6,6 +6,9 @@ Correctly identify buttons on desktop.
 Correctly identify Chrome.
 
 Navigate to Chrome.
+If Chrome is not available, have a step included which means go to Windows and search for it.
+
+
 
 
 Clara can remember each image separately. So, classes are created to learn each image individually by itself. 
@@ -15,7 +18,34 @@ If she is currently trying to press Chrome, but can't see it, then she will pres
 
 In terms of training, train Clara to go to Chrome, and send an email to myself, every single time. SO wherever she starts from, she can identify, so go out of directories, to desktop, or find chrome in other places, etc.
 
+She needs to be able to identify one image in a large image, this might be YOLO, or scrolling the whole image to find the one connection. 
+
+rerunning in latest qa build and see what happens.
+
+PASCAL VOC format, as well as YOLO format. LabelImg seems to be one of the standards.
+
 Maybe I will talk to Samuel about an automated browser, and see if he gets excited and interested in it.
 
+Set up a sequence system like Chess, where each input can be modified in itself, and it figures out what to do at each moment.
+
+The thing is, how would this be delivered to a client? What would you show the client? Do they jsut do it once, and you film the screen process and then train it for them?
+They shoudl train it by doing it once, then the system learns it. 
+But for example what if it's not in windows screen, then what do people do? They would have to train every alternative to set it up. 
+The way to check how this works is to set up an account on Amazon Mechanical Turk to train the AI to do UI tasks, and see how effective it is.
+It also needs to have a Utility function that detects how successful it has been.
+When you train it, you do the whole process, it picks it up and separates it into different steps, and then 
+
+
+Tasks to train on:
+Amazon Mechanical Turk.
+Search Google Images for specific keywords.
+
+So, I'm thinking, it will use a web app as an admin side which the user determines how to use. They can set up actions and record new actions too.
+
+Define Clara's actions, Mouseclick, keyboard typing. 
+Define Clara's vision, and senses, as identifying buttons.
+Define Calra's brain with Tensorflow models.
+
+So, user creates all of that, then it trains in the background?
 
 

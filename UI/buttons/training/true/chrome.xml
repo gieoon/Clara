@@ -1,0 +1,26 @@
+<annotation>
+	<folder>true</folder>
+	<filename>2018-12-17 09_53_58-.png</filename>
+	<path>C:/Users/JunK/Documents/clara/UI/buttons/training/true/2018-12-17 09_53_58-.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>54</width>
+		<height>40</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chrome</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>8</ymin>
+			<xmax>39</xmax>
+			<ymax>31</ymax>
+		</bndbox>
+	</object>
+</annotation>
